@@ -1,2 +1,2 @@
 # Memories
-Coments from tech
+Comments from tech
